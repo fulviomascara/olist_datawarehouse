@@ -2,7 +2,7 @@
 
 Projeto para construção de uma plataforma moderna de dados, baseada em uma arquitetura de Data Warehouse, cujo foco será o de fornecer uma estrutura para construção de produtos de dados para uma fictícia (não tão fictícia assim) empresa de e-commerce.
 
-A evolução do projeto se dará através de artigos no Medium, cada um trabalhando competências específicas de uma platforma moderna de dados, conforme abaixo:
+A evolução do projeto se dará através de artigos no Medium, cada um trabalhando competências específicas de uma plataforma moderna de dados, conforme abaixo:
 
 - Ingerir os dados de origem de um banco de dados transacional e armazenar os mesmos em um data warehouse
 - Orquestrar as tarefas de ingestão já desenvolvidas e encadear as mesmas com tarefas de data quality para validar os dados brutos (raw) armazenados no data warehouse
@@ -10,7 +10,7 @@ A evolução do projeto se dará através de artigos no Medium, cada um trabalha
 - Disponibilizar os metadados das OBTs em um catálogo de dados que possa ser consultado pelos usuários
 - Criar charts e dashboards para análise, consumindo os dados diretamente do data warehouse
 
-## A Stack da Plataforma Moderna de Dados para este Projeto segue no diagrama abaixo
+## A Stack da Plataforma Moderna de Dados para este Projeto
 
 ## Uma explicação sobre o caso de uso
 
