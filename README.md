@@ -1,4 +1,4 @@
-## Projeto Olist Data Warehouse
+# Projeto Olist Data Warehouse
 
 Projeto para construção de uma plataforma moderna de dados, baseada em uma arquitetura de Data Warehouse, cujo foco será o de fornecer uma estrutura para construção de produtos de dados para uma fictícia (não tão fictícia assim) empresa de e-commerce.
 
@@ -10,9 +10,9 @@ A evolução do projeto se dará através de artigos no Medium, cada um trabalha
 - Disponibilizar os metadados das OBTs em um catálogo de dados que possa ser consultado pelos usuários
 - Criar charts e dashboards para análise, consumindo os dados diretamente do data warehouse
 
-# A Stack da Plataforma Moderna de Dados para este Projeto segue no diagrama abaixo
+## A Stack da Plataforma Moderna de Dados para este Projeto segue no diagrama abaixo
 
-# Uma explicação sobre o caso de uso
+## Uma explicação sobre o caso de uso
 
 No meu dia a dia lido com diversos contextos de negócio na plataforma de dados que estamos trabalhando, mas um dos contextos que nutro mais interesse é o de vendas, cujos dados vêm predominantemente de um CRM. Pensei que trazer dados de um CRM seria interessante para explorar bem este contexto, mas tive dificuldade em encontrar algo "usável" e parti para busca de algo análogo, onde tivéssemos como trabalhar entidades como cliente, produto e pedido.
 
